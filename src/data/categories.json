@@ -1,0 +1,86 @@
+[
+  {
+    "slug": "resenas-impresoras-termicas-4x6",
+    "name": "Reseñas de Impresoras Térmicas 4×6",
+    "icon": "printer",
+    "description": "Análisis técnicos de impresoras térmicas 4×6 pulgadas (Rollo, MUNBYN, KNAON y alternativas en Amazon EE. UU.) según volumen diario, conexión USB/Bluetooth/Wi-Fi y costo cada 100 paquetes."
+  },
+  {
+    "slug": "comparativas-impresoras-de-etiquetas",
+    "name": "Comparativas Modelo vs Modelo",
+    "icon": "scale",
+    "description": "Duelos directos entre impresoras Rollo, MUNBYN, KNAON, JADENS y DYMO comparando velocidad, impresión desde celular o PC, portarrollos y rentabilidad."
+  },
+  {
+    "slug": "impresoras-por-volumen-y-conexion",
+    "name": "Por Volumen, Celular y Conexión",
+    "icon": "wifi",
+    "description": "Selecciones recomendadas según tu volumen diario de pedidos (1–15, 20–80 o +100 paquetes/día), conectividad (USB, Bluetooth o AirPrint) y sistema operativo."
+  },
+  {
+    "slug": "etiquetas-termicas-y-portarrollos",
+    "name": "Etiquetas 4×6 y Portarrollos",
+    "icon": "tag",
+    "description": "Guías comerciales de etiquetas térmicas directas en rollo y plegadas fan-fold, etiquetas impermeables BPA-Free, FNSKU y portarrollos externos universales."
+  },
+  {
+    "slug": "balanzas-digitales-para-envios",
+    "name": "Balanzas Digitales para Envíos",
+    "icon": "weight",
+    "description": "Reseñas y comparativas de balanzas postales con pantalla LCD externa, función Tare y Hold, desde sobres ligeros de 0.1 oz hasta cajas de 110 lb y 440 lb."
+  },
+  {
+    "slug": "accesorios-y-suministros-de-embalaje",
+    "name": "Accesorios y Suministros de Embalaje",
+    "icon": "box",
+    "description": "Sobres impermeables poly mailers, sobres burbuja, pistolas dispensadoras de cinta, papel honeycomb y lápices limpiadores de cabezal térmico en Amazon."
+  },
+  {
+    "slug": "imprimir-etiquetas-desde-celular-y-pc",
+    "name": "Imprimir desde Celular y Computadora",
+    "icon": "phone",
+    "description": "Tutoriales paso a paso para imprimir desde iPhone, Android, Mac y Windows usando AirPrint nativo, apps Bluetooth puente o drivers USB sin errores."
+  },
+  {
+    "slug": "etiquetas-en-rollo-vs-plegadas-fanfold",
+    "name": "Etiquetas en Rollo vs Plegadas (Fan-Fold)",
+    "icon": "roll",
+    "description": "Qué formato acepta cada modelo (bandeja interna vs ranura trasera), medidas de núcleo de 1\" y cómo montar un portarrollos externo sin atascos."
+  },
+  {
+    "slug": "costos-y-rentabilidad-por-100-paquetes",
+    "name": "Costos por 100 Paquetes y ROI",
+    "icon": "dollar",
+    "description": "Cálculo real de cuánto cuesta etiquetar 100 paquetes con térmica directa 4×6 frente a impresora de tinta + hoja carta + cinta, y retorno de inversión."
+  },
+  {
+    "slug": "configuracion-shopify-amazon-y-couriers",
+    "name": "Shopify, Amazon FBA y Couriers",
+    "icon": "shopify",
+    "description": "Cómo configurar la salida exacta de 4×6 pulgadas (101.6 × 152.4 mm) en Shopify, Amazon Seller Central, Mercado Envíos, eBay, Etsy, USPS, UPS y DHL."
+  },
+  {
+    "slug": "resolucion-dpi-codigos-de-barras-y-formatos",
+    "name": "Resolución DPI, Códigos y Formatos",
+    "icon": "barcode",
+    "description": "Cuándo necesitas 203 DPI vs 300 DPI para códigos FNSKU o QR densos, ajuste de oscuridad (darkness), velocidad de impresión y formatos adicionales."
+  },
+  {
+    "slug": "calibracion-mantenimiento-y-fallas",
+    "name": "Calibración, Cabezal y Solución de Fallas",
+    "icon": "wrench",
+    "description": "Detección automática de salto de etiqueta, etiquetas en blanco, líneas blancas verticales, desalineación y limpieza segura del cabezal térmico."
+  },
+  {
+    "slug": "pesaje-cubicaje-y-preparacion-de-pedidos",
+    "name": "Pesaje, Cubicaje y Empaque",
+    "icon": "tape",
+    "description": "Uso correcto de Tare y Hold al pesar cajas grandes, cálculo del peso volumétrico (DIM weight), redondeo de onzas y elección del sobre o caja ideal."
+  },
+  {
+    "slug": "organizacion-estacion-de-despacho-y-amazon-usa",
+    "name": "Estación de Despacho y Amazon EE. UU.",
+    "icon": "desk",
+    "description": "Cómo armar una mesa de despacho eficiente en menos de 1.20 m, flujo por lotes para 100 pedidos y guía para importar desde Amazon EE. UU. (100–240V)."
+  }
+]
