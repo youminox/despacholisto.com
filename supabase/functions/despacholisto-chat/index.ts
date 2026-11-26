@@ -61,8 +61,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
       "Rollo Wireless Shipping Label Printer (X1040) — Wi-Fi AirPrint + USB 4×6",
     subtitle:
       "Imprime sin apps puente desde iPhone, iPad, Mac, Windows y Android vía AirPrint/Wi-Fi a 150 mm/s. Acepta etiquetas térmicas en rollo (con portarrollos externo) y plegadas fan-fold. Costo aprox.: US$ 1.80–2.40 cada 100 paquetes.",
-    rating: "4.7",
-    reviewsCount: "11.400+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Rollo Wireless Shipping Label Printer Wi-Fi AirPrint X1040")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Rollo impresora etiquetas termica WiFi 4x6")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -73,8 +71,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
       "Rollo USB Commercial Grade Shipping Label Printer (X1038) — 4×6 Direct Thermal",
     subtitle:
       "Diseño robusto de oficina para despachar +100 paquetes/día desde Windows, Mac o Chromebook vía USB. Detección automática de etiquetas en rollo o fan-fold por ranura trasera.",
-    rating: "4.7",
-    reviewsCount: "16.800+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Rollo USB Shipping Label Printer Commercial Grade X1038")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("Rollo impresora termica USB etiquetas envio 100x150")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -85,8 +81,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
       "MUNBYN RealWriter 941 (ITPP941) — Impresora Térmica 4×6 USB 203 DPI",
     subtitle:
       "La favorita de emprendedores con Mac o Windows: cabezal japonés ROHM de larga vida, compatible con Shopify, Amazon FBA, eBay y Etsy. Ideal con etiquetas fan-fold o rollo externo.",
-    rating: "4.6",
-    reviewsCount: "9.800+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("MUNBYN RealWriter 941 Thermal Shipping Label Printer ITPP941 USB")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("MUNBYN ITPP941 impresora termica etiquetas envio 4x6 USB")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -97,8 +91,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
       "MUNBYN RealWriter 130B / RW402B — Impresora Térmica Bluetooth + USB 4×6",
     subtitle:
       "Conecta por Bluetooth a iPhone y Android con la app MUNBYN Print (o vía USB en Mac/Windows). Calibración automática con 1 botón para rollos o etiquetas plegadas.",
-    rating: "4.6",
-    reviewsCount: "5.200+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("MUNBYN Bluetooth Thermal Label Printer RW130B RW402B 4x6")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("MUNBYN RW130B RW402B impresora termica bluetooth 100x150")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -109,20 +101,16 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
       "MUNBYN RealWriter 941P (300 DPI) / RW401AP (Wi-Fi AirPrint) — Etiquetas 4×6 y FNSKU",
     subtitle:
       "Nitidez superior de 300 DPI para códigos de barras densos Amazon FBA, FNSKU pequeños, tipografía fina y logotipos de marca sin pixelado.",
-    rating: "4.6",
-    reviewsCount: "3.400+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("MUNBYN 300 DPI ITPP941P RW401AP AirPrint Thermal Label Printer")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("MUNBYN 300 DPI impresora termica etiquetas WiFi")}&tag=${AMAZON_TAG_ES}`,
   },
   "knaon-bluetooth-y812bt": {
     id: "knaon-bluetooth-y812bt",
-    badge: "🔥 #1 Más Económica Bluetooth + USB (< US$ 75 en Amazon)",
+    badge: "🔥 #1 Más Económica Bluetooth + USB",
     title:
       "KNAON Bluetooth Thermal Shipping Label Printer (Y812BT / 4×6) — iPhone, Android, Mac y Windows",
     subtitle:
       "Arranque económico para tiendas nuevas (1 a 35 paquetes/día): imprime por Bluetooth desde celular o USB desde computadora usando etiquetas 4×6 estándar sin DRM.",
-    rating: "4.6",
-    reviewsCount: "4.600+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("KNAON Bluetooth Thermal Shipping Label Printer 4x6 Y812BT")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("KNAON impresora termica bluetooth etiquetas 4x6")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -132,9 +120,7 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
     title:
       "Etiquetas Térmicas Directas 4×6\" (500 / 4,000 uds BPA-Free) + Portarrollos Universal Rollo/MUNBYN",
     subtitle:
-      "Etiquetas impermeables y anti-aceite compatibles con Rollo, MUNBYN y KNAON (~US$ 1.50–2.40 cada 100 paquetes), más soporte dual para rollos y pilas plegadas fan-fold.",
-    rating: "4.8",
-    reviewsCount: "38.500+",
+      "Etiquetas impermeables y anti-aceite compatibles con Rollo, MUNBYN y KNAON, más soporte dual para rollos y pilas plegadas fan-fold.",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("4x6 Thermal Shipping Labels Fanfold Roll Label Holder Rollo MUNBYN")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("etiquetas termicas 100x150 rollo fanfold soporte portarrollos")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -145,8 +131,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
       "Accuteck ShipPro W-8580 (110 lb) / MUNBYN Digital Shipping Scale con Pantalla LCD Externa",
     subtitle:
       "Evita recargos postales: mide desde 0.1 oz / 2 g hasta 50 kg con funciones Tare y Hold y visor extensible para cajas grandes que tapan la plataforma.",
-    rating: "4.7",
-    reviewsCount: "31.200+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("Accuteck ShipPro 110lbs Digital Shipping Scale MUNBYN Postal Scale")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("balanza digital paquetes envios pantalla externa 50kg")}&tag=${AMAZON_TAG_ES}`,
   },
@@ -157,8 +141,6 @@ const AMAZON_PRODUCTS: Record<string, AmazonProductCard> = {
       "Sobres Impermeables Poly Mailers 10×13\", Bubble Mailers, Pistola Dispensadora 2\" y Lápiz IPA",
     subtitle:
       "Todo el consumible de estación de despacho para empacar en segundos y mantener el cabezal térmico limpio sin líneas blancas.",
-    rating: "4.8",
-    reviewsCount: "24.600+",
     urlUS: `https://www.amazon.com/s?k=${encodeURIComponent("10x13 Poly Mailers Heavy Duty Tape Dispenser Gun Thermal Printhead Cleaning Pen")}&tag=${AMAZON_TAG_US}`,
     urlES: `https://www.amazon.es/s?k=${encodeURIComponent("bolsas envio impermeables poly mailers dispensador cinta embalaje")}&tag=${AMAZON_TAG_ES}`,
   },
